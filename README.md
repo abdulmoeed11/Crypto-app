@@ -4,9 +4,8 @@ This application is a practice app to utilize Jetpack Compose. It uses MVVM arch
 
 
 # Screenshots
-<a href="url"><img src="[http://url.to/image.png](https://github.com/abdulmoeed11/Crypto-app/blob/main/crypto-2.jpg?raw=true)" align="left" height="100" width="50" ></a>
-![alt text](https://github.com/abdulmoeed11/Crypto-app/blob/main/crypto-2.jpg?raw=true)
-
+<img src="https://github.com/abdulmoeed11/Crypto-app/blob/main/crypto-2.jpg?raw=true" alt="CryptoInfo" width="250" height="500" /> 
+<img src="https://github.com/abdulmoeed11/Crypto-app/blob/main/crypto-1.jpg?raw=true" alt="CryptoList width="250" height="500" /> 
 
 # Tools Used
 Dagger, Hilt, Retrofit, Jetpack Compose
